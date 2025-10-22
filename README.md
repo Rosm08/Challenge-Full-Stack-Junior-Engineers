@@ -20,7 +20,10 @@ El backend está implementado con Node.js, TypeScript, Express y Sequelize sobre
 -en el bash: 
 
 git clone https://github.com/Rosm08/Challenge-Full-Stack-Junior-Engineers.git
+
 cd Challenge-Full-Stack-Junior-Engineers
+
+git checkout develop 
 
 cd backend
 npm install 
